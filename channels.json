@@ -20,6 +20,11 @@
     "url": "https://wikisport.wiki/embed/ssla.php"
   },
   {
+    "name": "M+ Campeones",
+    "description": "Señal proporcionada",
+    "url": "https://wikisport.wiki/wik/campeones.php"
+  },
+  {
     "name": "M. Liga de Campeones 3",
     "description": "Señal proporcionada",
     "url": "https://antenasport.top/movistarcampeones3.php"
@@ -38,11 +43,6 @@
     "name": "Movistar Deportes 1",
     "description": "Señal proporcionada",
     "url": "https://dlhd.link/stream/stream-436.php"
-  },
-  {
-    "name": "M+ Campeones",
-    "description": "Señal proporcionada",
-    "url": "https://wikisport.wiki/wik/campeones.php"
   },
   {
     "name": "#Vamos",
